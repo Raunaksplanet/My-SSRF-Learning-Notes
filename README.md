@@ -597,3 +597,5 @@ Host on your server → SSRF fetches it → stored XSS on target origin.
 - https://github.com/InvoiceShelf/InvoiceShelf/security/advisories/GHSA-38hf-fq8x-q49r
 
 - https://github.com/jgm/pandoc/issues/10682
+
+- https://medium.com/@Aacle/server-side-request-forgery-ssrf-from-ping-to-rce-6ac95bf4e489
