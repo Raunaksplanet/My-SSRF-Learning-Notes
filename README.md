@@ -585,3 +585,15 @@ Host on your server → SSRF fetches it → stored XSS on target origin.
 - https://x.com/thedawgyg/status/2006390944103383325
 
 - https://www.youtube.com/watch?v=zP4b3pw94s0
+
+- https://www.youtube.com/watch?v=z1FpSFG2KpY
+
+- https://github.com/Stirling-Tools/Stirling-PDF/security/advisories/GHSA-998c-x8hx-737r
+
+- https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-pdf-generators-a-complete-guide-to-finding-ssrf-vulnerabilities-in-pdf-generators
+
+- https://www.blackhillsinfosec.com/hunting-for-ssrf-bugs-in-pdf-generators/
+
+- https://github.com/InvoiceShelf/InvoiceShelf/security/advisories/GHSA-38hf-fq8x-q49r
+
+- https://github.com/jgm/pandoc/issues/10682
