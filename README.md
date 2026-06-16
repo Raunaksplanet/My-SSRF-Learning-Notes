@@ -599,3 +599,45 @@ Host on your server → SSRF fetches it → stored XSS on target origin.
 - https://github.com/jgm/pandoc/issues/10682
 
 - https://medium.com/@Aacle/server-side-request-forgery-ssrf-from-ping-to-rce-6ac95bf4e489
+
+- https://hackerone.com/reports/281950
+
+- https://hackerone.com/reports/287496
+
+- https://hackerone.com/reports/16571
+
+- https://hackerone.com/reports/783392
+
+- https://hackerone.com/reports/1300585
+
+- https://hackerone.com/reports/2015554
+
+- https://hackerone.com/reports/764517
+
+- https://hackerone.com/reports/514224
+
+- https://www.hackerone.com/blog/how-find-xss-techniques-security-researchers-use-real-environments
+
+- https://hackerone.com/reports/659565
+
+- https://hackerone.com/reports/1875484
+
+- https://hackerone.com/reports/1736390
+
+- https://hackerone.com/reports/67389
+
+- https://infosecwriteups.com/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed
+
+- https://github.com/ramosslyz/Vulnerability-Checklist22/blob/main/SSRF%20Vulnerability.md
+
+- https://hackerone.com/reports/913276
+
+- https://hackerone.com/reports/815084
+
+- https://hackerone.com/reports/333419
+
+- https://hackerone.com/reports/3165242
+
+- https://hackerone.com/reports/530974
+
+- https://hackerone.com/reports/2932960
